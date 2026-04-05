@@ -1,0 +1,32 @@
+
+  "nom": "holyg host",
+  "version": "1.0.0",
+  "description": "holy ghost WhatsApp Bot — un bot puissant, amusant et intelligent doté de fonctionnalités supplémentaires, de capacités d'IA et d'un design futuriste élégant",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js",
+    "démarrage": "node index.js"
+  },
+  "mots-clés" : [
+    "whatsapp",
+    "bot",
+    "automation",
+    "ai",
+    "digix",
+    "équipage"
+  ],
+  "dépendances": {
+    "baileys": "npm:baileys@latest",
+    "axios": "^1.7.7",
+    "axios-retry": "^3.9.1",
+    "uuid": "^9.0.1",
+    "wa-sticker-formatter": "^4.4.4",
+    "pino": "^8.18.0",
+    "crypto": "dernier",
+    "type de fichier": "^19.0.0",
+    "form-data": "^4.0.1"
+  },
+  "author": "ð“†© ð ƒð ¢ð ð ¢ð ð šð ¥ ð ‚ð «ð žð ° ð Ÿ ð Ÿ'ð Ÿ' ð“†ª",
+  "licence" : "ISC"
+}
